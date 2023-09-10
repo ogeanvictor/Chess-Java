@@ -1,3 +1,4 @@
+import boardgame.BoardException;
 import chess.ChessMatch;
 
 public class Main {
